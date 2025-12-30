@@ -1,4 +1,4 @@
 # Title
 Insert text
 
-[Notebooks](notebooks/index.html)
+[Notebooks](notebooks/readme.md)
